@@ -1,3 +1,5 @@
+# Codes will be added
+
 # NLP with Disaster Tweets – Starter Guide
 
 A **practical, beginner-friendly walkthrough** for Kaggle’s “Natural Language Processing with Disaster Tweets” competition. Ideal for your first NLP project: a small dataset (~10 k tweets), a straightforward binary classification target, and a leaderboard judged by **F1‑score**.
